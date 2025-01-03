@@ -1,4 +1,4 @@
-import data from "../../fixtures/example.json";
+import data from "../fixtures/example.json";
 
   describe('Homework Task 3', () => {
 
